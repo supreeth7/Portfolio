@@ -1,4 +1,4 @@
 baseURL = "https://www.supreeth.in"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Portfolio"
 theme = "hugo-uilite"
