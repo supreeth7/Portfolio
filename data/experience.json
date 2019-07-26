@@ -1,0 +1,17 @@
+{
+  "title": "Experience",
+  "experience": [
+    {
+      "timeperiod": "May 2019 - June 2019",
+      "company": "Shunyeka Systems",
+      "website": "https://shunyeka.com/",
+      "description": "Worked on a cloud governance product called AutobotAI while being mentored by the development lead. Daily tasks involved fixing bugs, analyzing customer feedback and tweaking system functions on AWS"
+    },
+    {
+      "timeperiod": "June 2019 - Present",
+      "company": "GeeksforGeeks",
+      "website": "https://www.geeksforgeeks.org/",
+      "description": "Working as a campus ambassador by promoting various technical articles, educating freshmen about career choices by holding live seminars supported by GeeksforGeeks professionals"
+    }
+  ]
+}

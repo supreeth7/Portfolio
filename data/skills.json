@@ -1,0 +1,11 @@
+{
+  "title": "Skills",
+  "skills": {
+    "Java": "90",
+    "Spring 5": "80",
+    "AWS": "80",
+    "Hibernate": "75",
+    "MySQL": "90",
+    "Serverless": "85"
+  }
+}

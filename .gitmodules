@@ -1,0 +1,3 @@
+[submodule "hugo-uilite"]
+	path = hugo-uilite
+	url = https://github.com/uicardiodev/hugo-uilite
