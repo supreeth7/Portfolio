@@ -1,2 +1,2 @@
 # Portfolio
-A digital resume
+A serverless hugo website deployed through AWS Amplify.
