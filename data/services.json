@@ -3,8 +3,8 @@
   "services": [
     {
       "icon": "pencil-ruler",
-      "title": "J2EE Development",
-      "description": "Expertise in Core Java development with technology stack comprsing of Spring 5, Spring boot and Angular 7"
+      "title": "Backend Development",
+      "description": "Expertise in backend development using various technology stacks"
     },
     {
       "icon": "pen-nib",
